@@ -1,6 +1,5 @@
 body{
   margin: 0;
-  color: 5DA7DB
     font-family: 'Sacramento', cursive;
 }
 
@@ -15,14 +14,14 @@ a{
 
 .top-container{
 height: 100%;
-width: 100%;
-
-
+width: auto;
 }
 
 .Bottom-container{
   margin-top: 50px ;
   margin-bottom: 15px;
+  margin-left: auto;
+  margin-right: auto;
 }
 
 
